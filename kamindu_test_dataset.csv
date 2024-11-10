@@ -1,0 +1,157 @@
+﻿batting_position,batter,mode_of_dismissal,score,balls,minutes,fours,sixes,strike_rate,team_innings_total,innings,opposition,venue,host_country,date,year,sl_result,test_no
+1,Pathum Nissanka ,c Green b Starc,6,25,38,0,0,24,554,2,Australia,Galle,Sri Lanka,8-Jul,2022,win,2471
+2,Dimuth Karunaratne (c),lbw b Swepson,86,165,246,10,0,52.12,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
+3,Kusal Mendis ,lbw b Lyon,85,161,253,9,0,52.79,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
+4,Angelo Mathews ,c Labuschagne b Starc,52,117,163,4,0,44.44,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
+5,Dinesh Chandimal ,not out,206,326,545,16,5,63.19,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
+6,Kamindu Mendis ,b Swepson,61,137,197,7,0,44.52,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
+7,Niroshan Dickwella †,c Cummins b Lyon,5,13,17,0,0,38.46,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
+8,Ramesh Mendis ,lbw b Starc,29,98,118,1,0,29.59,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
+9,Maheesh Theekshana ,b Cummins,10,27,40,2,0,37.03,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
+10,Prabath Jayasuriya ,b Starc,0,9,16,0,0,0,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
+11,Kasun Rajitha ,lbw b Swepson,0,9,34,0,0,0,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
+NA,Extras,NA,14,NA,NA,NA,NA,NA,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
+1,Nishan Madushka ,c Mehidy Hasan Miraz b Khaled Ahmed,2,9,9,0,0,22.22,280,1,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+2,Dimuth Karunaratne ,b Khaled Ahmed,17,37,65,1,0,45.94,280,1,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+3,Kusal Mendis †,c Zakir Hasan b Khaled Ahmed,16,26,48,2,0,61.53,280,1,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+4,Angelo Mathews ,run out (Najmul Hossain Shanto),5,7,14,1,0,71.42,280,1,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+5,Dinesh Chandimal ,c Mehidy Hasan Miraz b Shoriful Islam,9,13,24,0,0,69.23,280,1,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+6,Dhananjaya de Silva (c),c Mehidy Hasan Miraz b Nahid Rana,102,131,204,12,1,77.86,280,1,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+7,Kamindu Mendis ,c †Litton Das b Nahid Rana,102,127,176,11,3,80.31,280,1,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+8,Prabath Jayasuriya ,c †Litton Das b Nahid Rana,1,11,23,0,0,9.09,280,1,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+9,Kasun Rajitha ,not out,6,27,46,0,0,22.22,280,1,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+10,Vishwa Fernando ,c †Litton Das b Taijul Islam,9,19,24,0,0,47.36,280,1,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+11,Lahiru Kumara ,run out (Shoriful Islam/Shahadat Hossain),0,6,8,0,0,0,280,1,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+NA,Extras,NA,11,NA,NA,NA,NA,NA,280,1,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+1,Nishan Madushka ,c †Litton Das b Nahid Rana,10,20,30,1,0,50,418,3,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+2,Dimuth Karunaratne ,c Nahid Rana b Shoriful Islam,52,101,157,7,1,51.48,418,3,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+3,Kusal Mendis †,c †Litton Das b Nahid Rana,3,10,27,0,0,30,418,3,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+4,Angelo Mathews ,c †Litton Das b Taijul Islam,22,24,32,3,0,91.66,418,3,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+5,Dinesh Chandimal ,lbw b Mehidy Hasan Miraz,0,2,8,0,0,0,418,3,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+6,Dhananjaya de Silva (c),c Zakir Hasan b Mehidy Hasan Miraz,108,179,282,9,2,60.33,418,3,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+7,Vishwa Fernando ,c Mehidy Hasan Miraz b Khaled Ahmed,4,24,32,0,0,16.66,418,3,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+8,Kamindu Mendis ,c Mehidy Hasan Miraz b Taijul Islam,164,237,300,16,6,69.19,418,3,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+9,Prabath Jayasuriya ,b Mehidy Hasan Miraz,25,47,68,4,0,53.19,418,3,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+10,Lahiru Kumara ,lbw b Mehidy Hasan Miraz,0,1,2,0,0,0,418,3,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+11,Kasun Rajitha ,not out,4,20,39,1,0,20,418,3,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+NA,Extras,NA,26,NA,NA,NA,NA,NA,418,3,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
+1,Nishan Madushka ,run out (Hasan Mahmud/†Litton Das),57,105,127,6,0,54.28,531,1,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+2,Dimuth Karunaratne ,b Hasan Mahmud,86,129,228,8,1,66.66,531,1,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+3,Kusal Mendis †,c Mehidy Hasan Miraz b Shakib Al Hasan,93,150,164,11,1,62,531,1,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+4,Angelo Mathews ,c Mehidy Hasan Miraz b Hasan Mahmud,23,71,102,2,1,32.39,531,1,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+5,Dinesh Chandimal ,c †Litton Das b Shakib Al Hasan,59,104,146,5,2,56.73,531,1,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+6,Dhananjaya de Silva (c),lbw b Khaled Ahmed,70,111,161,6,2,63.06,531,1,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+7,Kamindu Mendis ,not out,92,167,236,7,2,55.08,531,1,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+8,Prabath Jayasuriya ,lbw b Shakib Al Hasan,28,75,104,3,0,37.33,531,1,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+9,Vishwa Fernando ,run out (Najmul Hossain Shanto),11,26,41,2,0,42.3,531,1,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+10,Lahiru Kumara ,b Mehidy Hasan Miraz,6,12,19,1,0,50,531,1,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+11,Asitha Fernando ,run out (Taijul Islam),0,4,17,0,0,0,531,1,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+NA,Extras,NA,6,NA,NA,NA,NA,NA,531,1,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+1,Nishan Madushka ,c Root b Woakes,4,16,27,0,0,25,236,1,England,Manchester,England,21-Aug,2024,loss,2545
+2,Dimuth Karunaratne ,c †Smith b Atkinson,2,18,23,0,0,11.11,236,1,England,Manchester,England,21-Aug,2024,loss,2545
+3,Kusal Mendis ,c Brook b Wood,24,34,46,4,0,70.58,236,1,England,Manchester,England,21-Aug,2024,loss,2545
+4,Angelo Mathews ,lbw b Woakes,0,5,4,0,0,0,236,1,England,Manchester,England,21-Aug,2024,loss,2545
+5,Dinesh Chandimal †,lbw b Shoaib Bashir,17,40,73,2,0,42.5,236,1,England,Manchester,England,21-Aug,2024,loss,2545
+6,Dhananjaya de Silva (c),c Lawrence b Shoaib Bashir,74,84,155,8,0,88.09,236,1,England,Manchester,England,21-Aug,2024,loss,2545
+7,Kamindu Mendis ,c †Smith b Woakes,12,25,25,1,0,48,236,1,England,Manchester,England,21-Aug,2024,loss,2545
+8,Prabath Jayasuriya ,c †Smith b Atkinson,10,20,24,1,0,50,236,1,England,Manchester,England,21-Aug,2024,loss,2545
+9,Milan Rathnayake ,c Woakes b Shoaib Bashir,72,135,144,6,2,53.33,236,1,England,Manchester,England,21-Aug,2024,loss,2545
+10,Vishwa Fernando ,run out (Pope/†Smith),13,62,88,2,0,20.96,236,1,England,Manchester,England,21-Aug,2024,loss,2545
+11,Asitha Fernando ,not out,0,6,10,0,0,0,236,1,England,Manchester,England,21-Aug,2024,loss,2545
+NA,Extras,NA,8,NA,NA,NA,NA,NA,236,1,England,Manchester,England,21-Aug,2024,loss,2545
+1,Nishan Madushka ,b Woakes,0,3,2,0,0,0,326,3,England,Manchester,England,21-Aug,2024,loss,2545
+2,Dimuth Karunaratne ,c Brook b Wood,27,32,64,4,0,84.37,326,3,England,Manchester,England,21-Aug,2024,loss,2545
+3,Kusal Mendis ,c †Smith b Atkinson,0,4,5,0,0,0,326,3,England,Manchester,England,21-Aug,2024,loss,2545
+4,Angelo Mathews ,c Potts b Woakes,65,145,232,2,1,44.82,326,3,England,Manchester,England,21-Aug,2024,loss,2545
+5,Dinesh Chandimal †,c sub (Harry Singh) b Potts,79,119,358,7,0,66.38,326,3,England,Manchester,England,21-Aug,2024,loss,2545
+6,Dhananjaya de Silva (c),lbw b Potts,11,25,36,1,0,44,326,3,England,Manchester,England,21-Aug,2024,loss,2545
+7,Kamindu Mendis ,c Root b Atkinson,113,183,275,15,1,61.74,326,3,England,Manchester,England,21-Aug,2024,loss,2545
+8,Milan Rathnayake ,c Duckett b Root,10,15,27,1,0,66.66,326,3,England,Manchester,England,21-Aug,2024,loss,2545
+9,Prabath Jayasuriya ,c Brook b Potts,5,10,11,0,0,50,326,3,England,Manchester,England,21-Aug,2024,loss,2545
+10,Vishwa Fernando ,lbw b Woakes,0,2,4,0,0,0,326,3,England,Manchester,England,21-Aug,2024,loss,2545
+11,Asitha Fernando ,not out,0,0,2,0,0,NA,326,3,England,Manchester,England,21-Aug,2024,loss,2545
+NA,Extras,NA,16,NA,NA,NA,NA,NA,326,3,England,Manchester,England,21-Aug,2024,loss,2545
+1,Nishan Madushka †,b Woakes,7,15,27,1,0,46.66,196,2,England,Lord's,England,29-Aug,2024,loss,2546
+2,Dimuth Karunaratne ,b Stone,7,26,41,1,0,26.92,196,2,England,Lord's,England,29-Aug,2024,loss,2546
+3,Pathum Nissanka ,c Potts b Stone,12,18,15,1,0,66.66,196,2,England,Lord's,England,29-Aug,2024,loss,2546
+4,Angelo Mathews ,b Potts,22,36,50,3,0,61.11,196,2,England,Lord's,England,29-Aug,2024,loss,2546
+5,Dinesh Chandimal ,c Lawrence b Atkinson,23,33,61,3,0,69.69,196,2,England,Lord's,England,29-Aug,2024,loss,2546
+6,Dhananjaya de Silva (c),c Brook b Potts,0,3,2,0,0,0,196,2,England,Lord's,England,29-Aug,2024,loss,2546
+7,Kamindu Mendis ,c Woakes b Atkinson,74,120,161,8,3,61.66,196,2,England,Lord's,England,29-Aug,2024,loss,2546
+8,Milan Rathnayake ,c †Smith b Woakes,19,14,30,4,0,135.71,196,2,England,Lord's,England,29-Aug,2024,loss,2546
+9,Prabath Jayasuriya ,b Shoaib Bashir,8,46,60,0,0,17.39,196,2,England,Lord's,England,29-Aug,2024,loss,2546
+10,Lahiru Kumara ,run out (Pope),0,22,50,0,0,0,196,2,England,Lord's,England,29-Aug,2024,loss,2546
+11,Asitha Fernando ,not out,1,1,2,0,0,100,196,2,England,Lord's,England,29-Aug,2024,loss,2546
+NA,Extras,NA,23,NA,NA,NA,NA,NA,196,2,England,Lord's,England,29-Aug,2024,loss,2546
+1,Nishan Madushka †,c Root b Atkinson,13,25,29,1,0,52,292,4,England,Lord's,England,29-Aug,2024,loss,2546
+2,Dimuth Karunaratne ,c †Smith b Stone,55,129,201,7,0,42.63,292,4,England,Lord's,England,29-Aug,2024,loss,2546
+3,Pathum Nissanka ,c Root b Stone,14,24,31,3,0,58.33,292,4,England,Lord's,England,29-Aug,2024,loss,2546
+4,Prabath Jayasuriya ,c Brook b Woakes,4,41,50,0,0,9.75,292,4,England,Lord's,England,29-Aug,2024,loss,2546
+5,Angelo Mathews ,c Woakes b Shoaib Bashir,36,91,135,3,0,39.56,292,4,England,Lord's,England,29-Aug,2024,loss,2546
+6,Dinesh Chandimal ,c Lawrence b Atkinson,58,62,76,11,0,93.54,292,4,England,Lord's,England,29-Aug,2024,loss,2546
+7,Dhananjaya de Silva (c),b Atkinson,50,71,109,7,0,70.42,292,4,England,Lord's,England,29-Aug,2024,loss,2546
+8,Kamindu Mendis ,c Duckett b Atkinson,4,5,7,0,0,80,292,4,England,Lord's,England,29-Aug,2024,loss,2546
+9,Milan Rathnayake ,c †Smith b Atkinson,43,56,83,7,0,76.78,292,4,England,Lord's,England,29-Aug,2024,loss,2546
+10,Lahiru Kumara ,c Stone b Woakes,10,13,16,2,0,76.92,292,4,England,Lord's,England,29-Aug,2024,loss,2546
+11,Asitha Fernando ,not out,0,3,4,0,0,0,292,4,England,Lord's,England,29-Aug,2024,loss,2546
+NA,Extras,NA,5,NA,NA,NA,NA,NA,292,4,England,Lord's,England,29-Aug,2024,loss,2546
+1,Pathum Nissanka ,c Woakes b Hull,64,51,75,9,0,125.49,263,2,England,The Oval,England,6-Sep,2024,win,2548
+2,Dimuth Karunaratne ,run out (Stone),9,16,27,1,0,56.25,263,2,England,The Oval,England,6-Sep,2024,win,2548
+3,Kusal Mendis ,c Brook b Woakes,14,13,20,3,0,107.69,263,2,England,The Oval,England,6-Sep,2024,win,2548
+4,Angelo Mathews ,c Pope b Stone,3,11,18,0,0,27.27,263,2,England,The Oval,England,6-Sep,2024,win,2548
+5,Dinesh Chandimal †,lbw b Stone,0,4,10,0,0,0,263,2,England,The Oval,England,6-Sep,2024,win,2548
+6,Dhananjaya de Silva (c),c Shoaib Bashir b Hull,69,111,132,11,0,62.16,263,2,England,The Oval,England,6-Sep,2024,win,2548
+7,Kamindu Mendis ,c Root b Woakes,64,91,139,7,0,70.32,263,2,England,The Oval,England,6-Sep,2024,win,2548
+8,Milan Rathnayake ,c †Smith b Stone,7,21,46,1,0,33.33,263,2,England,The Oval,England,6-Sep,2024,win,2548
+9,Vishwa Fernando ,lbw b Hull,0,8,7,0,0,0,263,2,England,The Oval,England,6-Sep,2024,win,2548
+10,Lahiru Kumara ,not out,5,29,45,0,0,17.24,263,2,England,The Oval,England,6-Sep,2024,win,2548
+11,Asitha Fernando ,c †Smith b Shoaib Bashir,11,14,20,2,0,78.57,263,2,England,The Oval,England,6-Sep,2024,win,2548
+NA,Extras,NA,17,NA,NA,NA,NA,NA,263,2,England,The Oval,England,6-Sep,2024,win,2548
+1,Pathum Nissanka ,not out,127,124,190,13,2,102.41,219,4,England,The Oval,England,6-Sep,2024,win,2548
+2,Dimuth Karunaratne ,c & b Woakes,8,21,31,1,0,38.09,219,4,England,The Oval,England,6-Sep,2024,win,2548
+3,Kusal Mendis ,c Shoaib Bashir b Atkinson,39,37,58,7,0,105.4,219,4,England,The Oval,England,6-Sep,2024,win,2548
+4,Angelo Mathews ,not out,32,61,97,3,0,52.45,219,4,England,The Oval,England,6-Sep,2024,win,2548
+5,Dinesh Chandimal †,DNB,NA,NA,NA,NA,NA,NA,219,4,England,The Oval,England,6-Sep,2024,win,2548
+6,Dhananjaya de Silva (c),DNB,NA,NA,NA,NA,NA,NA,219,4,England,The Oval,England,6-Sep,2024,win,2548
+7,Kamindu Mendis ,DNB,NA,NA,NA,NA,NA,NA,219,4,England,The Oval,England,6-Sep,2024,win,2548
+8,Milan Rathnayake ,DNB,NA,NA,NA,NA,NA,NA,219,4,England,The Oval,England,6-Sep,2024,win,2548
+9,Vishwa Fernando ,DNB,NA,NA,NA,NA,NA,NA,219,4,England,The Oval,England,6-Sep,2024,win,2548
+10,Lahiru Kumara ,DNB,NA,NA,NA,NA,NA,NA,219,4,England,The Oval,England,6-Sep,2024,win,2548
+11,Asitha Fernando ,DNB,NA,NA,NA,NA,NA,NA,219,4,England,The Oval,England,6-Sep,2024,win,2548
+NA,Extras,NA,13,NA,NA,NA,NA,NA,219,4,England,The Oval,England,6-Sep,2024,win,2548
+1,Pathum Nissanka ,b O'Rourke,27,25,31,5,0,108,305,1,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+2,Dimuth Karunaratne ,c †Blundell b O'Rourke,2,8,21,0,0,25,305,1,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+3,Dinesh Chandimal ,c sub (MG Bracewell) b Southee,30,71,107,3,0,42.25,305,1,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+4,Angelo Mathews ,c †Blundell b O'Rourke,36,116,160,3,0,31.03,305,1,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+5,Kamindu Mendis ,c Mitchell b Patel,114,173,273,11,0,65.89,305,1,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+6,Dhananjaya de Silva (c),b Phillips,11,24,27,2,0,45.83,305,1,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+7,Kusal Mendis †,c Southee b Phillips,50,68,103,7,0,73.52,305,1,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+8,Ramesh Mendis ,lbw b O'Rourke,14,49,60,2,0,28.57,305,1,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+9,Prabath Jayasuriya ,lbw b Patel,0,15,19,0,0,0,305,1,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+10,Lahiru Kumara ,not out,2,2,7,0,0,100,305,1,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+11,Asitha Fernando ,b O'Rourke,0,4,5,0,0,0,305,1,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+NA,Extras,NA,19,NA,NA,NA,NA,NA,305,1,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+1,Pathum Nissanka ,c Southee b O'Rourke,2,10,12,0,0,20,309,3,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+2,Dimuth Karunaratne ,b Patel,83,127,201,6,0,65.35,309,3,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+3,Dinesh Chandimal ,c Latham b O'Rourke,61,150,197,6,0,40.66,309,3,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+4,Angelo Mathews ,c Mitchell b Patel,50,111,180,5,0,45.04,309,3,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+5,Kamindu Mendis ,c Mitchell b O'Rourke,13,12,24,3,0,108.33,309,3,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+6,Dhananjaya de Silva (c),st †Blundell b Patel,40,77,99,4,0,51.94,309,3,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+7,Kusal Mendis †,b Patel,23,30,32,3,0,76.66,309,3,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+8,Ramesh Mendis ,lbw b Patel,1,18,37,0,0,5.55,309,3,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+9,Prabath Jayasuriya ,c O'Rourke b Santner,11,24,32,2,0,45.83,309,3,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+10,Lahiru Kumara ,c Williamson b Patel,0,4,3,0,0,0,309,3,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+11,Asitha Fernando ,not out,0,7,13,0,0,0,309,3,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+NA,Extras,NA,25,NA,NA,NA,NA,NA,309,3,New Zealand,Galle,Sri Lanka,18-Sep,2024,win,2549
+1,Pathum Nissanka ,c †Blundell b Southee,1,3,5,0,0,33.33,602,1,New Zealand,Galle,Sri Lanka,26-Sep,2024,win,2551
+2,Dimuth Karunaratne ,run out (Phillips/Latham),46,109,150,4,0,42.2,602,1,New Zealand,Galle,Sri Lanka,26-Sep,2024,win,2551
+3,Dinesh Chandimal ,b Phillips,116,208,271,15,0,55.76,602,1,New Zealand,Galle,Sri Lanka,26-Sep,2024,win,2551
+4,Angelo Mathews ,c O'Rourke b Phillips,88,185,243,7,0,47.56,602,1,New Zealand,Galle,Sri Lanka,26-Sep,2024,win,2551
+5,Kamindu Mendis ,not out,182,250,391,16,4,72.8,602,1,New Zealand,Galle,Sri Lanka,26-Sep,2024,win,2551
+6,Dhananjaya de Silva (c),c †Blundell b Phillips,44,80,87,3,1,55,602,1,New Zealand,Galle,Sri Lanka,26-Sep,2024,win,2551
+7,Kusal Mendis †,not out,106,149,188,6,3,71.14,602,1,New Zealand,Galle,Sri Lanka,26-Sep,2024,win,2551
+8,Nishan Peiris,DNB,NA,NA,NA,NA,NA,NA,602,1,New Zealand,Galle,Sri Lanka,26-Sep,2024,win,2551
+9,Prabath Jayasuriya,DNB,NA,NA,NA,NA,NA,NA,602,1,New Zealand,Galle,Sri Lanka,26-Sep,2024,win,2551
+10,Milan Rathnayake,DNB,NA,NA,NA,NA,NA,NA,602,1,New Zealand,Galle,Sri Lanka,26-Sep,2024,win,2551
+11,Asitha Fernando,DNB,NA,NA,NA,NA,NA,NA,602,1,New Zealand,Galle,Sri Lanka,26-Sep,2024,win,2551
+NA,Extras,NA,19,NA,NA,NA,NA,NA,602,1,New Zealand,Galle,Sri Lanka,26-Sep,2024,win,2551
