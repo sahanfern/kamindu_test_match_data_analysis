@@ -1,16 +1,16 @@
 ﻿batting_position,batter,mode_of_dismissal,score,balls,minutes,fours,sixes,strike_rate,team_innings_total,innings,opposition,venue,host_country,date,year,sl_result,test_no
 1,Pathum Nissanka ,c Green b Starc,6,25,38,0,0,24,554,2,Australia,Galle,Sri Lanka,8-Jul,2022,win,2471
-2,Dimuth Karunaratne (c),lbw b Swepson,86,165,246,10,0,52.12,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
-3,Kusal Mendis ,lbw b Lyon,85,161,253,9,0,52.79,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
-4,Angelo Mathews ,c Labuschagne b Starc,52,117,163,4,0,44.44,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
-5,Dinesh Chandimal ,not out,206,326,545,16,5,63.19,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
-6,Kamindu Mendis ,b Swepson,61,137,197,7,0,44.52,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
-7,Niroshan Dickwella †,c Cummins b Lyon,5,13,17,0,0,38.46,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
-8,Ramesh Mendis ,lbw b Starc,29,98,118,1,0,29.59,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
-9,Maheesh Theekshana ,b Cummins,10,27,40,2,0,37.03,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
-10,Prabath Jayasuriya ,b Starc,0,9,16,0,0,0,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
-11,Kasun Rajitha ,lbw b Swepson,0,9,34,0,0,0,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
-NA,Extras,NA,14,NA,NA,NA,NA,NA,554,2,Australia,Galle,Sri Lanka,22-Mar,2024,win,2471
+2,Dimuth Karunaratne (c),lbw b Swepson,86,165,246,10,0,52.12,554,2,Australia,Galle,Sri Lanka,8-Jul,2022,win,2471
+3,Kusal Mendis ,lbw b Lyon,85,161,253,9,0,52.79,554,2,Australia,Galle,Sri Lanka,8-Jul,2022,win,2471
+4,Angelo Mathews ,c Labuschagne b Starc,52,117,163,4,0,44.44,554,2,Australia,Galle,Sri Lanka,8-Jul,2022,win,2471
+5,Dinesh Chandimal ,not out,206,326,545,16,5,63.19,554,2,Australia,Galle,Sri Lanka,8-Jul,2022,win,2471
+6,Kamindu Mendis ,b Swepson,61,137,197,7,0,44.52,554,2,Australia,Galle,Sri Lanka,8-Jul,2022,win,2471
+7,Niroshan Dickwella †,c Cummins b Lyon,5,13,17,0,0,38.46,554,2,Australia,Galle,Sri Lanka,8-Jul,2022,win,2471
+8,Ramesh Mendis ,lbw b Starc,29,98,118,1,0,29.59,554,2,Australia,Galle,Sri Lanka,8-Jul,2022,win,2471
+9,Maheesh Theekshana ,b Cummins,10,27,40,2,0,37.03,554,2,Australia,Galle,Sri Lanka,8-Jul,2022,win,2471
+10,Prabath Jayasuriya ,b Starc,0,9,16,0,0,0,554,2,Australia,Galle,Sri Lanka,8-Jul,2022,win,2471
+11,Kasun Rajitha ,lbw b Swepson,0,9,34,0,0,0,554,2,Australia,Galle,Sri Lanka,8-Jul,2022,win,2471
+NA,Extras,NA,14,NA,NA,NA,NA,NA,554,2,Australia,Galle,Sri Lanka,8-Jul,2022,win,2471
 1,Nishan Madushka ,c Mehidy Hasan Miraz b Khaled Ahmed,2,9,9,0,0,22.22,280,1,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
 2,Dimuth Karunaratne ,b Khaled Ahmed,17,37,65,1,0,45.94,280,1,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
 3,Kusal Mendis †,c Zakir Hasan b Khaled Ahmed,16,26,48,2,0,61.53,280,1,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,win,2536
@@ -47,6 +47,18 @@ NA,Extras,NA,26,NA,NA,NA,NA,NA,418,3,Bangladesh,Sylhet,Bangladesh,22-Mar,2024,wi
 10,Lahiru Kumara ,b Mehidy Hasan Miraz,6,12,19,1,0,50,531,1,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
 11,Asitha Fernando ,run out (Taijul Islam),0,4,17,0,0,0,531,1,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
 NA,Extras,NA,6,NA,NA,NA,NA,NA,531,1,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+1,Nishan Madushka ,c Mehidy Hasan Miraz b Hasan Mahmud,34,45,68,5,0,75.55,157,3,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+2,Dimuth Karunaratne ,b Hasan Mahmud,4,5,9,1,0,80,157,3,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+3,Kusal Mendis †,b Khaled Ahmed,2,2,5,0,0,100,157,3,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+4,Angelo Mathews ,b Shakib Al Hasan,56,74,167,5,0,75.67,157,3,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+5,Dinesh Chandimal ,c Shahadat Hossain b Hasan Mahmud,9,7,11,2,0,128.57,157,3,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+6,Dhananjaya de Silva (c),c †Litton Das b Hasan Mahmud,1,7,9,0,0,14.28,157,3,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+7,Kamindu Mendis ,c †Litton Das b Khaled Ahmed,9,17,21,2,0,52.94,157,3,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+8,Prabath Jayasuriya ,not out,28,67,97,2,0,41.79,157,3,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+9,Vishwa Fernando ,not out,8,16,26,1,0,50,157,3,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+10,Lahiru Kumara ,DNB,NA,NA,NA,NA,NA,NA,157,3,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+11,Asitha Fernando ,DNB,NA,NA,NA,NA,NA,NA,157,3,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
+NA,Extras,NA,6,NA,NA,NA,NA,NA,157,3,Bangladesh,Chattogram,Bangladesh,30-Mar,2024,win,2537
 1,Nishan Madushka ,c Root b Woakes,4,16,27,0,0,25,236,1,England,Manchester,England,21-Aug,2024,loss,2545
 2,Dimuth Karunaratne ,c †Smith b Atkinson,2,18,23,0,0,11.11,236,1,England,Manchester,England,21-Aug,2024,loss,2545
 3,Kusal Mendis ,c Brook b Wood,24,34,46,4,0,70.58,236,1,England,Manchester,England,21-Aug,2024,loss,2545
